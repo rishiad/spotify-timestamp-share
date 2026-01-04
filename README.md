@@ -1,7 +1,6 @@
 # Spotify Timestamp Share
 
-Adds a Share menu item in the Spotify web player to copy a podcast episode link
-at the current playback time.
+Adds a Share menu item in the Spotify web player to copy a podcast episode link at the current playback time.
 
 ## Usage
 
